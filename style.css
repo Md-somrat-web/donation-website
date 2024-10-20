@@ -50,3 +50,73 @@ header .currency {
   align-items: center;
   gap: 16px;
 }
+.button {
+  padding-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.btn1 {
+  background-color: #b4f461;
+  padding: 16px 32px;
+  border: none;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.btn2 {
+  padding: 16px 32px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 600;
+  background: transparent;
+  border: 1px solid #1111114d;
+}
+
+.card {
+  display: flex;
+  gap: 32px;
+  padding: 40px;
+}
+
+.btn3 {
+  background-color: #1111110d;
+  padding: 10px 16px;
+  width: 110px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  gap: 5px;
+}
+.tittel h3 {
+  margin-top: 16px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tittel p {
+  font-size: 16px;
+  color: #111111b3;
+  margin-top: 16px;
+  line-height: 24px;
+}
+input {
+  width: 500px;
+  height: 56px;
+  margin-top: 24px;
+  padding-left: 18px;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: #ffffff;
+  border: 1px solid #1111111a;
+}
+.donate {
+  background-color: #b4f461;
+  width: 522px;
+  height: 57px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 16px;
+}
